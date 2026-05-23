@@ -1,6 +1,6 @@
 ## 🙋‍♂️ hi i'm Nab / NabHeyka
 
-i'm 15, i like to code, make games and draw i think but i also want to do some other stuff yeah !
+i'm <b>15</b>, i like to `code`, make games and draw i think but i also want to do some other stuff yeah !
 
 he/him
 
