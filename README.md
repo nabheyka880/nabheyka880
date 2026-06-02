@@ -1,6 +1,7 @@
 ## 🙋‍♂️ hi i'm Nab / NabHeyka
 
 i'm 15, i like to code, make games and draw i think but i also want to do some other stuff yeah !
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I5I420OLN5)
 
 he/him
 
