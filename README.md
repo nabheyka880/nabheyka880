@@ -8,13 +8,13 @@ he/him
 
 uh here's some stuff that i know !
 
-<img src="https://skillicons.dev/icons?i=ts,discordjs,lua,nodejs,robloxstudio"/>
+<img src="https://skillicons.dev/icons?i=ts,discordjs,lua,nodejs,robloxstudio,js,html,css,astro"/>
 
 i also have a special website of mine, [check it out !](https://nabheyka.straw.page) (made with strawpage, sorry)
 
 here's some things that i WANT to learn yeah !!!
 
-<img src="https://skillicons.dev/icons?i=godot,html,css,js,regex"/>
+<img src="https://skillicons.dev/icons?i=godot,regex"/>
 
 here's my other links !
 <div align="center">
